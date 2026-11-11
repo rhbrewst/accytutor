@@ -1,5 +1,5 @@
-:HL["/_next/static/chunks/0l-7e2cdppn-u.css","style"]
+:HL["/accytutor/_next/static/chunks/0l-7e2cdppn-u.css","style"]
 :HC["/",""]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"book","h":96,"c":"$Q2"}]]
-0:{"b":"ka-bCvU-VQQJzMUAGA8HI","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"x5AKb4Ez0kmLZ48--yLmP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
